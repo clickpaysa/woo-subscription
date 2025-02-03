@@ -11,7 +11,7 @@ Official WooCommerce plugin for Clickpay
 ### Install using FTP method
 
 1. Download the latest release of the plugin
-2. Upload the folder `clickpay-woocommerce` to the wordpress installation directory: `wp-content/plugins/`
+2. Upload the folder `WooCommerce_clickpaysubscription` to the wordpress installation directory: `wp-content/plugins/`
 
 *Note: Delete any previous Clickpay plugin.*
 
@@ -20,7 +20,7 @@ Official WooCommerce plugin for Clickpay
 1. Download the latest release of the plugin
 2. Go to `"WordPress admin panel" >> Plugins >> Add New`
 3. Select `Upload Plugin`
-4. Click `Browse` and select the downloaded zip file (`clickpay-woocommerce.zip`)
+4. Click `Browse` and select the downloaded zip file (`WooCommerce_clickpaysubscription.zip`)
 5. Click `Install Now`
 6. If a previous version exists, select `Replace current with uploaded`
 
@@ -29,7 +29,7 @@ Official WooCommerce plugin for Clickpay
 ## Activating the Plugin
 
 1. Go to `"Wordpress admin panel" >> Plugins >> Installed Plugins`
-2. Look for `Clickpay - WooCommerce Payment Gateway` and click `Activate`
+2. Look for `Clickpay - WooCommerce Subscription Gateway` and click `Activate`
 
 ---
 
